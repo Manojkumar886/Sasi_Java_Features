@@ -18,6 +18,11 @@ public class UsingArraysStream
 //        s.forEach(no-> System.out.println(no));
 
         int [] arr ={ 10,5,6,7,3};
+
+
+        Arrays
+                .stream(arr).filter(no-> no%5==0)
+                        .forEach(System.out::println);
 //        IntStream s= Arrays.stream(arr);
 //        s=  s.sorted();
 //        s.forEach(System.out::println);
