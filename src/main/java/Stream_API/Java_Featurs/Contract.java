@@ -1,4 +1,4 @@
-package Java_Featurs;
+package Stream_API.Java_Featurs;
 
 @FunctionalInterface
 public interface Contract

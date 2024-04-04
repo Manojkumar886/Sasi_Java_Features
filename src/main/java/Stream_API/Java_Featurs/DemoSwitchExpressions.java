@@ -1,6 +1,4 @@
-package Java_Featurs;
-
-import java.util.Scanner;
+package Stream_API.Java_Featurs;
 
 public final class DemoSwitchExpressions extends DemoPython
 {

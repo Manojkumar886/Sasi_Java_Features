@@ -1,4 +1,4 @@
-package Java_Featurs;
+package Stream_API.Java_Featurs;
 //constructor -parameter,tostring,hascode,equals,getter
 
 public record StudentRecord  (String name,String email)

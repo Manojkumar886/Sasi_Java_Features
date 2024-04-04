@@ -1,4 +1,4 @@
-package Java_Featurs.Default_interface_predicate;
+package Stream_API.Java_Featurs.Default_interface_predicate;
 
 public class Connection
 {

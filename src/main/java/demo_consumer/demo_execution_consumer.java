@@ -1,10 +1,7 @@
 package demo_consumer;
 
-import Java_Featurs.Default_interface_predicate.Contract;
-
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 public class demo_execution_consumer
